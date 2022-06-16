@@ -2,6 +2,6 @@ variable "my_instance" {
     type = map(any)  
 }
 
-variable "snap" {
-    type = bool  
-}
+# variable "snap" {
+#     type = bool  
+# }
